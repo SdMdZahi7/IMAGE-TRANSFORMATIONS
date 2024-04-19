@@ -163,9 +163,19 @@ plt.show()
 ~~~
 
 ## OUTPUT:
+### ORIGINAL IMAGE:
 ![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/ac992848-880d-4e37-9c89-1e6e47c22167)
+### 1)IMAGE TRANSLATION:
+![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/42476d20-d524-4108-8014-f268f590ec61)
+### 2)IMAGE SCALING:
+![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/919e1df0-8d08-46ae-b30d-81e297911cdd)
+### 3)IMAGE SHEARING:
+![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/cb3adb41-87ae-4d72-8d0a-b22f09745850)
+![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/947980a0-3019-4f8d-8391-57d655be5f7e)
+
+
+
 
 
 ## Result: 
-
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
