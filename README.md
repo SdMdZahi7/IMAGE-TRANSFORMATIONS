@@ -172,6 +172,13 @@ plt.show()
 ### 3)IMAGE SHEARING:
 ![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/cb3adb41-87ae-4d72-8d0a-b22f09745850)
 ![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/947980a0-3019-4f8d-8391-57d655be5f7e)
+### IMAGE REFLECTION:
+![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/44bbf943-c71e-4b12-b876-d7a516bd1169)
+![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/5e34aa91-778a-45fa-be4d-1ea00af11da6)
+### IMAGE ROTATION:
+![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/d370b43e-8b19-496c-8013-a3a84d4c501c)
+### IMAGE CROPPING:
+![image](https://github.com/SdMdZahi7/IMAGE-TRANSFORMATIONS/assets/94187572/4ce8692b-2ae6-4cbd-9689-cf488e4d12b7)
 
 
 
